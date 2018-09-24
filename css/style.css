@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+.kwadrat {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/*kwadrat-1*/
+#k1 {
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+/*kwadrat-2*/
+#k2 {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+/*kwadrat-3*/
+#k3 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*kwadrat-4*/
+#k4 {
+    background-color: rgba(0, 0, 0, 0.25);
+}
